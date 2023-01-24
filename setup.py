@@ -6,5 +6,6 @@ setup(
     license='MIT',
     description='Un par de funciones pa facilitarme la via mami ya tu sae',
     author='ElayPY',
+    packages=find_packages(),
     install_requires=['shutil']
 )
